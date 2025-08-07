@@ -1,1 +1,1 @@
-# my-htnl-project
+# my-html-project
